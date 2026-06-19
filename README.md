@@ -6,7 +6,7 @@ ServiceNow already grades your technical hardening settings. Security Center giv
 
 ## Download
 
-Grab the latest version from the [Releases page](RELEASE_LINK_HERE). Download the `.xlsx`, open it, and you have a picture of your posture in a few minutes. No instance access, no install.
+Grab the latest version from the [Releases page](https://github.com/jrbella/servicenow-security-scorecard/blob/main/ServiceNow_Instance_Security_Scorecard_PRODUCTION.xlsx). Download the `.xlsx`, open it, and you have a picture of your posture in a few minutes. No instance access, no install.
 
 ## What it is
 

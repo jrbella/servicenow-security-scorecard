@@ -41,7 +41,7 @@ The thinking behind the scorecard, and a control-by-control walkthrough series, 
 
 ## Use and adapt
 
-Free to use, share, and adapt for your own environment. Attribution is appreciated. If you want to formalize reuse terms, add a LICENSE file; CC BY 4.0 is a common fit for work like this.
+Free to use, share, and adapt for your own environment. Attribution is appreciated. 
 
 ## Versions
 

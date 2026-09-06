@@ -31,7 +31,7 @@ The fastest way to assess the technical settings is Security Center > Hardening,
 
 Each control is weighted by criticality: Critical counts for more than High, which counts for more than Medium. Your score is the percent of the maximum possible, which rolls up to a maturity tier from At Risk to Optimized. Controls marked N/A are excluded entirely, so you are never penalized for something you do not run.
 
-## Honest framing
+## What it is and isn't
 
 This is a self-assessment, not an audit. It measures what you believe your posture is, which is a useful and underrated thing to make explicit, but it is the start of a conversation, not a certificate. Adapt the controls to your release, plugins, and risk profile.
 

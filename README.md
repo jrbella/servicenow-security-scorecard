@@ -2,11 +2,11 @@
 
 A self-assessment that measures the part of ServiceNow instance security nobody else measures.
 
-ServiceNow already grades your technical hardening settings. Security Center gives you a compliance score and it usually sits in the high 80s out of the box. What nothing measures is the governance layer: whether every service account has a named owner, whether credentials rotate, whether anyone reviews who holds admin, whether your security events reach a SIEM. None of that is a setting, so nothing scores it, and that is exactly where the real risk in a mature instance lives. This scorecard makes that layer visible.
+ServiceNow already grades your technical hardening settings. In my experience, Security Center's out-of-the-box compliance score often lands in the high 80s. What nothing measures is the governance layer: whether every service account has a named owner, whether credentials rotate, whether anyone reviews who holds admin, whether your security events reach a SIEM. None of that is a setting, so nothing scores it, and that is exactly where the real risk in a mature instance lives. This scorecard makes that layer visible.
 
 ## Download
 
-Grab the latest version from the [Releases page](https://github.com/jrbella/servicenow-security-scorecard/blob/main/ServiceNow_Instance_Security_Scorecard_PRODUCTION.xlsx). Download the `.xlsx`, open it, and you have a picture of your posture in a few minutes. No instance access, no install.
+Download the [`.xlsx`](https://github.com/jrbella/servicenow-security-scorecard/blob/main/ServiceNow_Security_Scorecard_PDI_PRODUCTION.xlsx), open it, and you have a picture of your posture in a few minutes. No instance access, no install.
 
 ## What it is
 
@@ -37,11 +37,11 @@ This is a self-assessment, not an audit. It measures what you believe your postu
 
 ## Read the full write-up
 
-The thinking behind the scorecard, and a control-by-control walkthrough series, lives here: [Read the full write-up](ARTICLE_LINK_HERE). Each category gets its own deep dive on a live instance, showing what passing and failing actually look like.
+The thinking behind the scorecard, and a control-by-control walkthrough series, lives here: [Read the full write-up](ARTICLE_LINK_HERE). Each category gets its own deep dive on a demo instance, showing what passing and failing actually look like.
 
 ## Use and adapt
 
-Free to use, share, and adapt for your own environment. Attribution is appreciated. 
+Free to use, share, and adapt for your own environment. Attribution is appreciated.
 
 ## Versions
 
@@ -49,4 +49,4 @@ Releases are tagged and the release notes serve as the changelog. Current: v1.0.
 
 ## About
 
-Built by Jeffrey Bella II, focused on ServiceNow instance security governance. Connect: https://www.linkedin.com/in/jeffrey-bella-965873112
+Built by Jeffrey Bella, focused on ServiceNow instance security governance. Connect: https://www.linkedin.com/in/jeffrey-bella-965873112
